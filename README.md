@@ -1,6 +1,4 @@
 # LISTAG.M3U
-#EXTM3U
-
 #EXTINF:-1 tvg-id="221" tvg-name="05R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 05R TV Santa Fe | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="642" tvg-name="08 NTV" tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png", 08 NTV | MX
